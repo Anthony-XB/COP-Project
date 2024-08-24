@@ -5,4 +5,4 @@ Software Development I
 3024C
 
 
-Previous Java Projects that shows the ability to sort data, read and write.
+Previous Java Projects that shows the ability to sort data, read and write. Also includes GUI with Swing and some Polymorphism projects. 
